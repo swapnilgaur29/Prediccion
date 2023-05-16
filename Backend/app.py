@@ -1,5 +1,6 @@
 from datetime import datetime as dt
 import yfinance as yf
+import dash
 from dash.exceptions import PreventUpdate
 import pandas as pd
 import plotly.graph_objs as go
